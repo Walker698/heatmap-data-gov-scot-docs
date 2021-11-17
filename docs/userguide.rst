@@ -9,17 +9,17 @@ Add image
 
 Overview
 --------
-This document outlines the main features and uses of Scotland Heat Map which is accessible at....
+This document outlines the main features and uses of the Scotland Heat Map which is accessible at....
 
 Searching
 -----------
-You first step would normally be to position the map to the area you are interested in and one of the ways to do this is to use the Search box at the top right of the map, to search for a place or Data Zone. As you start to type matching addresses will be displayed e.g. (add image)
+Your first step would normally be to position the map to the area you are interested in and one of the ways to do this is to use the Search box at the top right of the map, to search for a place or Data Zone. As you start to type matching addresses will be displayed e.g. (add image)
 
 Navigating the Map
 ------------------
 
-Another way to position the map is to zoom in or out. You can use the scroll bar on your mouse or click on the plus (zoom in) or minus (zoom out) buttons on the Navigation Toolbar at the top left of the map. You can also hold down the shift key and draw a rectangle on the map (marquee select), and when you release the mouse the map will zoom to that specific area. If you just want to move the map to a different location you can click and hold the left mouse button (pan) to drag the map into a different location.
-There is an **Overview Map** in the bottom left hand corner so that you can see where your chosen area resides. There is also a indication of the scale of the map in the top right hand corner.
+Another way to position the map is to zoom in or out. You can use the scroll bar on your mouse or click on the plus (zoom in) or minus (zoom out) buttons on the Navigation Toolbar at the top left of the map. You can also hold down the shift key and draw a rectangle on the map (marquee select) by holding in the left mouse button, and when you release the mouse the map will zoom to that specific area. If you just want to move the map to a different location you can click and hold the left mouse button (pan) to drag the map into a different location.
+There is an **Overview Map** in the bottom left hand corner so that you can see where your chosen area resides. There is also an indication of the scale of the map in the top right hand corner.
 
 Base Mapping
 ------------
@@ -42,10 +42,10 @@ Again, clicking the x at the top right will close the window.
 
 Generating a Heat Demand Report
 -------------------------------
-First select the area and Layers you are interested in using the tools described above and then click on the**Generate heat demand report** button under the Search box.
-The Report area is selected either by drawing a custom area (click Draw Custom Area) or selecting from the various predefined geographies such as Data Zones, Settlements or Local Authorities by clicking the relevant button. If you select **Draw custom area** you then draw an area on the map by clicking to add points to create an area and the double click to finish e.g. 
+First select the area and Layers you are interested in using the tools described above and then click on the**Generate report** button under the Search box.
+The Report area is selected either by drawing a custom area (click Draw Custom Area) or selecting from the various predefined geographies such as Data Zones, Settlements or Local Authorities by clicking the relevant button. If you select **Draw custom area** you then draw an area on the map by clicking to add points to create an area and then double click or join to a previous point to finish e.g. 
 
 If you select any of the predefined geographies then simply click to select the geography you are interested in; you may select more than one. As you select an area it is outlined in blue and the details displayed in the Heat Demand Report area e.g.
 
 Once you are happy with your choices you have the option to either Print report, which will create a PDF of the data, including the map, or Download CSV which creates a CSV file of the details.
-The information included within the report includes the Area, Energy supplies, Public-sector head demand and Total heat demand for each area.
+The information included within the report includes the Area, Energy supplies, Public-sector heat demand and Total heat demand for each area.
